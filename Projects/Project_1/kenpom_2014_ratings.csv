@@ -1,4 +1,4 @@
-Rk,Team,Conf,W-L,NetRtg,ORtg,DRtg,AdjT,Luck,NetRtg,ORtg,DRtg,NetRtg
+Rk,Team,Conf,W-L,NetRtg,ORtg,DRtg,AdjT,Luck,NetRtg_SoS,ORtg_SoS,DRtg_SoS,NetRtg_NCOS
 1,Louisville,Amer,31-6,+30.41,118.9,88.5,67.2,-.045,+4.31,107.0,102.7,-4.65
 2,Arizona,P12,33-5,+30.11,116.5,86.4,62.8,+.014,+9.30,109.9,100.6,+1.62
 3,Florida,SEC,36-3,+28.57,116.5,88.0,61.3,+.053,+9.02,109.4,100.4,+2.39
